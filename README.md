@@ -1,6 +1,6 @@
 ## 📊 Project Status
 
-This repository implements a custom Verilog-based Neural Processing Unit (NPU).
+This repository implements a custom Verilog-based Neural Processing Unit (NPU) based on RISC-V ISA.
 Development is ongoing and tracked at a module and feature level. Progress is tracked using GitHub Milestones. High-level status is summarized below.
 
 ### Overall Progress
